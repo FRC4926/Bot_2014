@@ -1,0 +1,20 @@
+Autonomous
+1) Add timed wait or wait until arm is where desired before moving 
+2) Add rapid fire at the end just in case the arm is not in position the first time (moving around setpt)
+
+General
+1) Move mantis trim to d-pad
+2) Fix the dashboard readout
+3) Change default values to correct values
+
+Setup dashboard on classmate
+
+From 3/4
+1)Fix dashboard logic
+2)put in limits for target position (don't go below 40)
+3)prevent arm from going forward until catapult is back.
+
+
+
+
+
